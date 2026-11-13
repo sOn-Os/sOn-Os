@@ -57,3 +57,4 @@ sOnOs is in beta. Bug reports, feedback and pull requests are welcome, and so ar
 </p>
 
 <sub>sOnOs is an independent distribution, not affiliated with the Arch Linux project.</sub>
+<sub>By aOnurTheDev.</sub>
